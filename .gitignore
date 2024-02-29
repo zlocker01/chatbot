@@ -1,0 +1,5 @@
+bot.qr.png
+.env
+node_modules/
+*_sessions/
+*.log
