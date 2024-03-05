@@ -27,11 +27,11 @@ const flowPrincipal = addKeyword([
       "Escribe alguna de las siguientes palabras para obtener ayuda",
       "👉 *_servicios_* --> para ver los servicios que ofrece",
       "👉 *_humano_* --> para comunicarte directamente con él",
-      // "👉 *_dudas_* --> para resolver cualquier duda que tengas",
+      "👉 *_dudas_* --> para resolver cualquier duda que tengas",
     ],
     null,
     null,
-    [flowHuman, flowServices, flowGracias, flowBye]
+    [flowHuman, flowServices, flowGracias, flowBye, flowDoubt]
   );
 
 module.exports = flowPrincipal;
