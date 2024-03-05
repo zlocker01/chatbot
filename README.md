@@ -1,22 +1,15 @@
-### CHATBOT Whatsapp (Baileys Provider)
+## Descricpion 🖥️
 
-<p align="center">
-  <img width="300" src="https://i.imgur.com/Oauef6t.png">
-</p>
+Chatbot-REAL-Project
+Este es mi chatbot para automatizar el contacto inical con un cliente en whatsapp, creador con la libreria de Chatbot.js y Javascript Vanilla
 
+## Autor ✒️
 
-**Con esta librería, puedes construir flujos automatizados de conversación de manera agnóstica al proveedor de WhatsApp,** configurar respuestas automatizadas para preguntas frecuentes, recibir y responder mensajes de manera automatizada, y hacer un seguimiento de las interacciones con los clientes.  Además, puedes configurar fácilmente disparadores que te ayudaran a expandir las funcionalidades sin límites. **[Ver documentación](https://bot-whatsapp.netlify.app/)**
+Diego Beristain de la Mora
 
+## Ver Proyecto en vivo 👁️
 
-```
-npm install
-npm start
-```
+<img width="630" alt="Captura de pantalla 2024-02-28 203641" src="https://github.com/zlocker01/chatbot/assets/121736405/643b55a4-0c65-43c2-b75c-4686293e7bdd">
 
----
-## Recursos
-- [📄 Documentación](https://bot-whatsapp.netlify.app/)
-- [🚀 Roadmap](https://github.com/orgs/codigoencasa/projects/1)
-- [💻 Discord](https://link.codigoencasa.com/DISCORD)
-- [👌 Twitter](https://twitter.com/leifermendez)
-- [🎥 Youtube](https://www.youtube.com/watch?v=5lEMCeWEJ8o&list=PL_WGMLcL4jzWPhdhcUyhbFU6bC0oJd2BR)
++52 1 55 2571 5907
+
